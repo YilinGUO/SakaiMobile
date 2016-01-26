@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_login">
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"/>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+    <TextView
+        android:id="@+id/annouce_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="sad"
+        android:textSize="40sp"
+        android:textColor="#000000"
+        />    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp">
+<TextView
+    android:id="@+id/annouce_context"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:text="thisis"
+    android:textSize="30sp"
+    android:textColor="#000000"/>
+    </RelativeLayout>
+    <TextView
+        android:layout_marginTop="370dp"
+        android:layout_marginLeft="130dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/developer"
+        android:textSize="20sp"
+        android:textColor="#04477c"/>
+</LinearLayout>

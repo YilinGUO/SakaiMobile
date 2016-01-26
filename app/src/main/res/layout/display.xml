@@ -1,0 +1,91 @@
+<!--?xml version=1.0 encoding=utf-8?-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_login">
+    <!--android:background="@drawable/background"-->
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="100dp"
+        android:src="@drawable/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip">
+        <Button
+            android:id="@+id/announcement"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/announce"
+            android:textSize="30sp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/icon3"
+            android:textColor="#ffffff"
+            />
+        <Button
+            android:id="@+id/resources"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/resource"
+            android:textSize="30sp"
+            android:layout_marginTop="90dp"
+            android:background="@drawable/icon3"
+            android:textColor="#ffffff"/>
+        <Button
+            android:id="@+id/dues"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/due"
+            android:textSize="30sp"
+            android:layout_marginTop="150dp"
+            android:background="@drawable/icon3"
+            android:textColor="#ffffff"/>
+        <Button
+            android:id="@+id/turning"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/turn"
+            android:textSize="30sp"
+            android:layout_marginTop="210dp"
+            android:background="@drawable/icon3"
+            android:textColor="#ffffff"/>
+        <Button
+            android:id="@+id/help"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/help"
+            android:textSize="30sp"
+            android:layout_marginTop="270dp"
+            android:background="@drawable/icon3"
+            android:textColor="#ffffff"/>
+
+
+        </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/hvLogo"
+            android:src="@drawable/cat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true" />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/developer"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/hvLogo" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
