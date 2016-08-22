@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">miniSAKAI</string>
+    <string name="app_name">Mobile Sakai</string>
     <string name="hello">Hello World, LoginActivity!</string>
     <string name="login_label_username">Account</string>
     <string name="login_label_password">Password</string>
     <string name="login_label_signin">Login</string>
     <string name="login_status_logging_in">登录中...</string>
     <string name="login_username_hint">Student ID</string>
-    <string name="login_register_link">No ID? <a href="#">You cannot register one</a></string>
+    <string name="login_register_link">No ID? <a href="#">Register here!</a></string>
     <string name="announce">Announcement</string>
     <string name="due">Dues</string>
     <string name="resource">Resources</string>

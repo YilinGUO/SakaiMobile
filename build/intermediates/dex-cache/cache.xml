@@ -75,7 +75,7 @@
         jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="5dfd8e3771138e96aec3b8508f11b0acb4a4d1be">
+        sha1="760540c545547050b1d177973db57548b5927ec9">
         <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b1ad0d637b06c2eed41ee9de98bda933a9bcaf3f/classes.dex" />
     </item>
     <item
@@ -103,7 +103,7 @@
         jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="f1f4c5e42b8f8a9311ef995f622875014dbddcd5">
+        sha1="d93d171e7b3e3575afce681bd61bd419b20b0751">
         <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_07ad1993a2962850b1bfce0da84c361fe77f677a/classes.dex" />
     </item>
     <item
