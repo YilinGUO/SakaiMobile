@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<style name="normalText" parent="@android:style/TextAppearance"></style>
-    <style name="AppTheme" parent="Theme.Base.AppCompat.Light">
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light">
 	</style>
     <style name="QueryTheme" parent="@style/Theme.AppCompat">
         <!-- Any customizations for your app running on devices with Theme.Holo here -->

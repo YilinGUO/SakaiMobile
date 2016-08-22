@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_4ce9899f0d3e75f51308c4f5525a72e60645a6e5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_0886ea1b87bcd2d48eef68cab35b8e2faa99193b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1b2bd9b9de32afca673bed2f28909032e3161255/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_034e4234c41b30a4fee6a14ff2156bc4f2a288bc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_35b0a5c6c54e6b6be511b18df36f23ba3fe11ba4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_6dbabfa0f5093f34ae508a5c6ab4272f4bf0ac62/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_10a2512afc8c6470ec1e070b50ea971fccf4ae94/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e96ed2dce5ea44c8ee2c23b76000b22f9e228f35/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_9dfd2a53a730ba8ea392a14406684544251bac94/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_fdd2f6b9bb227985d86ce7322efcf98b429dda96/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5dfd8e3771138e96aec3b8508f11b0acb4a4d1be">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b1ad0d637b06c2eed41ee9de98bda933a9bcaf3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6511b3fd09aeaf3d47a3353b89f5a1495beca9ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_59c087c8815d4a840be1ddcc3eab98ed3ca879d3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_6e81eb35535d67cfc7a6727e63fe6a450c505dcb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f1f4c5e42b8f8a9311ef995f622875014dbddcd5">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_07ad1993a2962850b1bfce0da84c361fe77f677a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_2749e245876fcde2cdc3831854c93412f47ee083/classes.dex" />
+    </item>
+    <item
+        jar="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/elaineguo/Documents/OneDrive/UM/RESUME/SakaiMobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_dedca7bb6a6be75c847f27be5d7cdddcc6f9f2f5/classes.dex" />
+    </item>
+
+</items>
