@@ -10,8 +10,8 @@ The Demo Video could be found at https://youtu.be/jrjbM39uI4E.
 ## Screenshots
 <p align="center">
 <img src="screenshots/login.png" width="250">
-
+<br>
 <img src="screenshots/announcements.png" width="250">
-
+<br>
 <img src="screenshots/dues.png" width="250">
 </p>
