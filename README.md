@@ -8,8 +8,10 @@ This app utilizes Sakai 10 api, and has been validated on Android marshmallow.
 The Demo Video could be found at https://youtu.be/jrjbM39uI4E.
 
 ## Screenshots
-<img src="screenshots/login.png" width="200" align="center">
+<p align="center">
+<img src="screenshots/login.png" width="250">
 
-<img src="screenshots/announcements.png" width="200" align="center">
+<img src="screenshots/announcements.png" width="250">
 
-<img src="screenshots/dues.png" width="200" align="center">
+<img src="screenshots/dues.png" width="250">
+</p>
